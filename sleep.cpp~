@@ -1,0 +1,10 @@
+#include "sleep.hpp"
+#include <iostream>
+using namespace std;
+int main()
+{
+	cout<<"Vete a la mierda\n";
+	sleep(0.5);
+	cout<<"Payaso\n";
+	return 0;
+}
